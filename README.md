@@ -1,3 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Experiment_Time_Table
 
 ## AIM
@@ -128,10 +203,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://dsakthipriya.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR 
-![HTML VALIDATOR](http://dsakthipriya.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](./Valid.png)
 
 # RESULT
 The program for creating slot time table is completed successfully
